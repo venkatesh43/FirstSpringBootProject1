@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: FirstSpringProject
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: yakka
+Implementation-Vendor-Id: com.springboot
+Build-Jdk: 1.8.0_171
+Implementation-URL: http://projects.spring.io/spring-boot/FirstSpringP
+ roject/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
